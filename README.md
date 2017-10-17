@@ -1,5 +1,3 @@
 # hello-word
-just another repository
 Hi Humans!
-
-Nacy here,I like JQuery.
+Nacy here,I like JQuery,JAVA,Oracle.
